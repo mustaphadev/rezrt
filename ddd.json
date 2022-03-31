@@ -11,7 +11,7 @@
     "UnityRewardedAdId":"rewardedVideo",
     "UnityBannerAdId":"banner",
     "AdsBannerStack":"admob",
-    "AdsIntertitialStack":"unity,admob",
+    "AdsIntertitialStack":"admob",
     "AdsNativeStack":"admob"
   },
   "images":[
