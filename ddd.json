@@ -1,0 +1,22 @@
+{
+  "settings":{
+    "FacebookNativeAdId":"",
+    "FacebookBannerAdId":"",
+    "FacebookInterstitialAdId":"",
+    "AdmobBannerAdId":"ca-app-pub-3940256099942544/6300978111",
+    "AdmobIntertitialAdId":"ca-app-pub-3940256099942544/1033173712",
+    "AdmobRewardedAdId":"ca-app-pub-3940256099942544/5354046379",
+    "UnityGameId":"654987",
+    "UnityIntertitialAdId":"video",
+    "UnityRewardedAdId":"rewardedVideo",
+    "UnityBannerAdId":"banner",
+    "AdsBannerStack":"admob",
+    "AdsIntertitialStack":"unity,admob",
+    "AdsNativeStack":"admob"
+  },
+  "images":[
+    {
+      "imageUrl":"http://latrach.org/wallpapers/warframe/images/warframe (1).jpg"
+    }
+  ]
+}
