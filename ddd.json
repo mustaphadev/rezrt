@@ -1,0 +1,20 @@
+{
+  "settings":{
+	  "ImagesBaseUrl":"https://raw.githubusercontent.com/mustaphadev/rezrt/fsfd/imgs/",
+	  "PreviewsBaseUrl":"https://raw.githubusercontent.com/mustaphadev/rezrt/fsfd/imgs/previews",
+    "AdmobAppId":"ca-app-pub-3940256099942544~3347511713",
+	"AdmobBannerAdId":"ca-app-pub-3940256099942544/6300978111"
+  },
+  "images":[
+	  {"1":"الحمد%20لله%20(2).jpg"},
+	  {"2":"الحمد%20لله%20(3).jpg"},
+	  {"3":"الحمد%20لله.jpg"},
+	  {"4":"الكرسي.jpg"},
+	  {"5":"بسم.jpg"},
+	  {"6":"خط_الحب.jpg"},
+	  {"7":"خط_ع.jpg"},
+	  {"8":"خط_ل.jpg"},
+	  {"9":"خط_ن.jpg"},
+	  {"10":"خط_و.jpg"}
+  ]
+}
