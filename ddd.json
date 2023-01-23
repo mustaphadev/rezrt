@@ -2,8 +2,11 @@
   "settings":{
 	  "ImagesBaseUrl":"https://raw.githubusercontent.com/mustaphadev/rezrt/fsfd/imgs/",
 	  "PreviewsBaseUrl":"https://raw.githubusercontent.com/mustaphadev/rezrt/fsfd/imgs/previews",
-    "AdmobAppId":"ca-app-pub-3940256099942544~3347511713",
+    	"AdmobAppId":"ca-app-pub-3940256099942544~3347511713",
 	"AdmobBannerAdId":"ca-app-pub-3940256099942544/6300978111"
+	  "AdmobInterstitialAdId":"ca-app-pub-3940256099942544/1033173712",
+	  "AdsBannerStack":["admob"],
+	  "AdsInterstitialStack":["admob"]
   },
   "images":[
 	  "الحمد لله (2).jpg",
