@@ -6,7 +6,8 @@
 	"AdmobBannerAdId":"ca-app-pub-3940256099942544/6300978111",
 	  "AdmobInterstitialAdId":"ca-app-pub-3940256099942544/1033173712",
 	  "AdsBannerStack":"admob,admob,admob",
-	  "AdsInterstitialStack":"admob,admob,admob"
+	  "AdsInterstitialStack":"admob,admob,admob",
+	  "AdsNativeStack":"admob,admob,admob"
   },
   "images":[
 	  "الحمد لله (2).jpg",
